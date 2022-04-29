@@ -173,6 +173,12 @@ hold on
     xlim([-120 -88])
     hold on
     plot(lonprovinces,latprovinces,'k')
+     abtxt = {'Alberta'};
+text(-118,56.75,abtxt,'fontsize',13)
+sktxt = {'Saskatchewan'};
+text(-109,56.75,sktxt,'fontsize',13)
+mttxt = {'Manitoba'};
+text(-100,56.75,mttxt,'fontsize',13)
 hLeg = gobjects(5,1);
 hLeg(1) = scatter(NaN,NaN,'rv');
 hLeg(2) = scatter(NaN,NaN,'g^');

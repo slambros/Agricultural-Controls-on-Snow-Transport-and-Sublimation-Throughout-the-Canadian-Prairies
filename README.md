@@ -18,3 +18,4 @@ figures: resulting figures, used in final report
 Pomeroy, J. W., & Gray, D. M. (1994). Sensitivity of snow relocation and sublimation to climate and surface vegetation. Sensitivity of 
 Snow Relocation and Sublimation to Climate and Surface Vegetation, 223, 213–225. 
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.719.9487&rep=rep1&type=pdf
+

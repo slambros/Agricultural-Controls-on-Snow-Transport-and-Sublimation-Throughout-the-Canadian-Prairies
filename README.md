@@ -15,6 +15,11 @@ Model_codes: files that run the regression model, calculate and plot averages, c
 
 figures: resulting figures, used in final report
 
+![transportoverfallow61](https://user-images.githubusercontent.com/92240247/166129152-dd896401-f885-4dd9-ae36-84befa4145ca.jpg)
+
+![sublimationoverfallow61](https://user-images.githubusercontent.com/92240247/166129156-28d6c327-d67f-42d1-b267-4192f8364e48.jpg)
+
+
 Pomeroy, J. W., & Gray, D. M. (1994). Sensitivity of snow relocation and sublimation to climate and surface vegetation. Sensitivity of 
 Snow Relocation and Sublimation to Climate and Surface Vegetation, 223, 213–225. 
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.719.9487&rep=rep1&type=pdf
